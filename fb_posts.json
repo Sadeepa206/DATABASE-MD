@@ -1,5 +1,10 @@
 {
-  "boot": [],
+  "boot": [
+    {
+      "title": "\"New Boot Post\"",
+      "url": "https://example.com/boot1.jpg"
+    }
+  ],
   "love": [
     {
       "title": "New Love Post",
